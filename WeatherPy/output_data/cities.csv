@@ -1,4 +1,4 @@
-city_name,city_lat,city_lng,city_maxtemp,humidity,city_cloudiness,wind_speed,country,date
+City,Lat,Lng,Maxtemp,Humidity,Cloudiness,Wind Speed,Country,Date
 Mataura,-46.1927,168.8643,48.47,77,99,3.76,NZ,1651267803
 Hithadhoo,-0.6,73.0833,84.6,73,70,9.01,MV,1651267804
 Qaanaaq,77.484,-69.3632,12.04,76,18,1.88,GL,1651267805
